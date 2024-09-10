@@ -1,0 +1,7 @@
+January 26th 9:00 am - Started on assignment, created main and a function for the rock border.
+January 26th 6:30 pm - Defined all the variables and created a print function. Planning on making a full printMap function and using smaller methods within it.
+January 26th 8:30 pm - Started printMap function, created a clearings function for the base, added in random spots for the gates, started and almost finished
+with the paths (just need to figure out diagonals), and added in random locations for the buildings next to the paths.
+January 29th 8:20 pm - Finally fixed my paths so they're able to go diagonal! All that's left is the random terrian and any bug testing.
+January 29th 9:00 pm - Added in terrain generation for water, tall-grass, and sprinkled in some trees and rocks. Pretty much done but waiting for clarifications before submission.
+January 30th - All done!

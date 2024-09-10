@@ -1,0 +1,7 @@
+Assignment 1.10
+April 18th 3:00pm - I decided to create a separate changelog for this project since I'm creating a new project. I'm thinking of making a simple cake decorator game using C++ and the ncurses library for display. Started brainstorming ideas of how to implement it.
+April 18th 3:30pm - Made a rough outline of what I'm wanting for the game, very basic as of now but it's something. I'll probably go more in depth later but I was just excited to get this started.
+April 21st 7:30pm - I've added a lot but the player can now pick how many layers they want (1-6), their cake flavor (vanilla, chocolate, strawberry), and I'm adding in new decoration types.
+April 21st 8:00pm - Was working on a way to add in special characters like hearts and stars for decorations and after researching used wide strings to get it to work.
+April 21st 8:45pm - Finished up final display screen. User can pick their cake topper then it shows them the final display of their cake on a plate, they can exit with q.
+April 21st 9:45pm - Added final touches to my cake decoration game. All done!

@@ -1,0 +1,18 @@
+Assignment 1.01
+January 26th 9:00 am - Started on assignment, created main and a function for the rock border.
+January 26th 6:30 pm - Defined all the variables and created a print function. Planning on making a full printMap function and using smaller methods within it.
+January 26th 8:30 pm - Started printMap function, created a clearings function for the base, added in random spots for the gates, started and almost finished
+with the paths (just need to figure out diagonals), and added in random locations for the buildings next to the paths.
+January 29th 8:20 pm - Finally fixed my paths so they're able to go diagonal! All that's left is the random terrian and any bug testing.
+January 29th 9:00 pm - Added in terrain generation for water, tall-grass, and sprinkled in some trees and rocks. Pretty much done but waiting for clarifications before submission.
+January 30th - All done! (with 1.01)
+
+Assignment 1.02
+February 1st 10:00pm - Started on thinking of ideas and wrote out a few basic outlines for the program, mainly just skeleton code at most.
+February 5th - Started on adjusting my functions for pointers but then ran into a lot of issues with my computer and it needs fixed.
+February 6th 5:00pm - Got a rental and got back to my program. Edited all my previous functions to allow map in as a pointer.
+February 6th 7:30pm - Added in a game loop for user input. Also added in north and south functions and adjusted the map creation function.
+February 6th 10:00pm - Finished implementing all (but fly) movement functions. Worked on a lot of debugging and fixing errors as well. Getting close to done.
+February 7th 11:00am - Did the fly function and implemented the command coordinates into proper user input. Fixed up cleaning up the world as well.
+February 7th 2:00pm - Redid the placeBuilds function regarding distance probability and adjusted other functions based on that.
+February 7th 7:00pm - Had to redo a big chunk of my path function, ended up using a part of Ellie Chen's path code that she shared to help. All done now!
